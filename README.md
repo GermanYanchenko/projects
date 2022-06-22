@@ -14,4 +14,4 @@ txt
 Img
 ### 2.4 Детектирование человеческого лица при работе с webcam
 https://github.com/GermanYanchenko/CV_facedetection_webcam
-Img
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/facedetection.gif?raw=true)
