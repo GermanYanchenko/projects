@@ -1,7 +1,16 @@
 # Список с выполненными проектами:
-## 1. Классический ML
-txt
-Img
+## 1. Классический ML <br>
+https://github.com/GermanYanchenko/ClassicML
+<br>
+Исходный датасет<br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/ML_classic.png?raw=true)
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/ML_classic1.png?raw=true)
+<br>
+В качестве базовых алгоритмов исследованы kNN, LogisticRegression, DesisionTreeClassifier, GradientBoostingClassifier, RandomForestClassifier и SupportVectorClassification.Также реализован stacking, в качестве мета-алгоритма используется XGBoost.<br>
+Метрика качества - кривая AUC-ROC, полученные значения: <br><br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/metric.png?raw=true)<br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/metric1.png?raw=true)
+<br>
 ## 2. Computer Vision
 ### 2.1 Бинарный классификатор 
 txt
