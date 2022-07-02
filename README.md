@@ -12,10 +12,11 @@ https://github.com/GermanYanchenko/ClassicML
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/metric.png?raw=true)<br>
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/metric1.png?raw=true)
 <br>
-## 2. Computer Vision
-### 2.1 Бинарный классификатор 
-txt
-Img
+## 2. Computer Vision <br>
+### 2.1 Бинарный классификатор <br>
+https://github.com/GermanYanchenko/ImageClass_binary <br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/IC_history.png?raw=true)<br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/IC_predict.png?raw=true)<br>
 ### 2.2 Transfer learning
 txt
 Img
