@@ -19,7 +19,7 @@ https://github.com/GermanYanchenko/ImageClass_binary <br>
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/IC_predict.png?raw=true)<br>
 ### 2.2 Transfer Learning and Fine Tuning <br>
 Для задачи 2.1 в качестве базовой модели выбрана MobileNet, заморозив модель и дополнив выходным полным слоем реализовано обучение, после разморозив слои было выполнено дообучение.<br>
-repro<br>
+https://github.com/GermanYanchenko/TransferLearn_FineTun<br>
 Значения потерь и качества при Transfer Learning: <br>
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/hist_trans_learn.png?raw=true)<br>
 Значения потерь и качества при Fine Tuning: <br>
