@@ -27,8 +27,16 @@ https://github.com/GermanYanchenko/TransferLearn_FineTun<br>
 Предсказание модели: <br>
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/predict_tl_ft.png?raw=true)<br>
 ### 2.3 Модель предсказания пола, расы и вовзраста лиц людей.
-https://github.com/GermanYanchenko/VGGFace
-Img
+https://github.com/GermanYanchenko/VGGFace <br>
+Датасет - https://susanqq.github.io/UTKFace/. Базовая модель - VGGFace https://github.com/rcmalli/keras-vggface.<br>
+Пример изображения из датасета:<br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/vgg_img.png?raw=true)<br>
+История обучения:<br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/vgg_hist1.png?raw=true)<br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/vgg_hist2.png?raw=true)<br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/vgg_hist3.png?raw=true)<br>
+Предсказание модели для тестового датасета: <br>
+![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/vgg_predict.png?raw=true)<br>
 ### 2.4 Детектирование человеческого лица при работе с webcam
 https://github.com/GermanYanchenko/CV_facedetection_webcam
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/facedetection.gif?raw=true)
