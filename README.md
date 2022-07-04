@@ -27,7 +27,7 @@ https://github.com/GermanYanchenko/TransferLearn_FineTun<br>
 Предсказание модели: <br>
 ![alt text](https://github.com/GermanYanchenko/projects/blob/main/example/predict_tl_ft.png?raw=true)<br>
 ### 2.3 Модель предсказания пола, расы и вовзраста лиц людей.
-txt
+https://github.com/GermanYanchenko/VGGFace
 Img
 ### 2.4 Детектирование человеческого лица при работе с webcam
 https://github.com/GermanYanchenko/CV_facedetection_webcam
